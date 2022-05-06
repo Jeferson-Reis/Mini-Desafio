@@ -1,0 +1,31 @@
+ body {
+ margin: 0;
+ }
+
+ header {
+    margin: 5px;
+ }
+
+  .net {
+  	color: white;
+    display: flex;
+    width: 16%;
+    margin: 15px 0;
+  }
+
+  .pe {
+  	color: white;
+    text-align: center;
+    width: 100%;
+    margin: 15px;
+    font-size: 20px; 
+  }
+
+ footer {
+ 	position: fixed;
+	background: url("Ataques-ciberneticos-x.jpg");
+ 	width: 100%;
+ 	bottom:0;
+ 	height: 50px;
+    display: flex;
+}
